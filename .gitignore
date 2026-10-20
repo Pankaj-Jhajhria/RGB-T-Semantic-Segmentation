@@ -1,0 +1,39 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Secrets and IDE
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+
+# Datasets
+data/
+dataset/
+datasets/
+**/data/
+**/dataset/
+**/datasets/
+
+# Checkpoints and model weights
+checkpoints*/
+**/checkpoints*/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.h5
+*.safetensors
+*.pkl
+
+# Logs and caches
+logs*/
+**/logs*/
+*.log
+.gitignore.backup
