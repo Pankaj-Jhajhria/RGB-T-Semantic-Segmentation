@@ -4,7 +4,6 @@ __pycache__/
 .venv/
 venv/
 env/
-.ipynb_checkpoints/
 
 # Secrets and IDE
 .env
