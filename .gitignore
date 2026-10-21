@@ -22,8 +22,6 @@ datasets/
 **/datasets/
 
 # Checkpoints and model weights
-checkpoints*/
-**/checkpoints*/
 *.pth
 *.pt
 *.ckpt
